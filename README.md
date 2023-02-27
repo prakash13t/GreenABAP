@@ -1,2 +1,2 @@
-# GreenABAP
-A sustainable programming guideline for ABAP
+# Green ABAP
+A sustainable programming guidelines for Green ABAP
